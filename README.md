@@ -1,7 +1,7 @@
 # Hi, I'm Hend! 👋  
 
 🎓 **Computer Science Enthusiast | Backend Developer | Lifelong Learner**  
-Welcome to my GitHub profile!  
+
 
 💡 I'm a passionate **Computer Science student** with a diverse background bridging **technology** and **life sciences**. My strengths lie in:  
 - 🔍 **Backend Development**: Crafting robust, scalable systems.  
