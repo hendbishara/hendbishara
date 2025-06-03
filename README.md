@@ -3,7 +3,7 @@
 🎓 **Computer Science Enthusiast | Backend Developer | Lifelong Learner**  
 
 
-💡 I'm a passionate **Computer Science student** with a diverse background bridging **technology** and **life sciences**. My strengths lie in:  
+💡 I'm a passionate **Computer Science recent graduate** with a diverse background bridging **technology** and **life sciences**. My strengths lie in:  
 - 🔍 **Backend Development**: Crafting robust, scalable systems.  
 - 🧩 **Algorithms**: Building efficient and innovative solutions.  
 - 🤖 **Machine Learning**: Applying data-driven insights to solve real-world problems.  
